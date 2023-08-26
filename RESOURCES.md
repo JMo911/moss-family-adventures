@@ -1,0 +1,3 @@
+- https://kit.svelte.dev/docs/introduction
+- https://github.com/TheComputerM/awesome-svelte
+- https://www.youtube.com/watch?v=ftiTVitDbx0&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP&index=4&ab_channel=NetNinja
